@@ -293,7 +293,7 @@ header {
 }
 
 .cons5 {
-    background-image: url(/TYimages/download\ \(79\).svg), url(/TYimages/bg-lines.svg);
+    background-image: url(TYimages/download\ \(79\).svg), url(TYimages/bg-lines.svg);
     background-size: 115%;
     background-position: center;
     background-repeat: no-repeat;
